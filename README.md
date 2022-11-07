@@ -2,7 +2,9 @@
 - 👀 I’m interested in open source software, preferably [VeraCrypt](https://github.com/veracrypt/VeraCrypt), Angular and Vue.js
 - 🌱 I’m currently learning [SAP Spartacus](https://github.com/SAP/spartacus)
 - 💞️ I’m looking to collaborate on [VeraCrypt](https://github.com/veracrypt/VeraCrypt)
-- 📫 You can find me on [Twitter](https://twitter.com/andreasbecker) or on my 🏠 [personal website](http://andreasbecker.de/?ref=github-readme)
+- 📫 You can find me on [Twitter](https://twitter.com/andreasbecker)
+- 📫 and as well on <a rel="me" href="https://chaos.social/@andreasbecker">https://chaos.social/@andreasbecker</a>
+- 🏠 [personal website](http://andreasbecker.de/?ref=github-readme)
 
 <!---
 andreas-becker/andreas-becker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
